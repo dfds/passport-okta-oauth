@@ -4,7 +4,7 @@
   "description": "Passport strategy for authenticating with Okta using OAuth 2.0.",
   "main": "lib/passport-okta-oauth/index.js",
   "dependencies": {
-    "pkginfo": "0.2.x",
+    "pkginfo": "0.4.1",
     "passport-oauth": "1.0.0",
     "uid2": "0.0.3"
   },
